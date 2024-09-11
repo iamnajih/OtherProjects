@@ -1,0 +1,14 @@
+moviepy
+PyAutoGUI
+rembg
+numpy
+pil
+mediapipe
+imageio
+instaloader
+pygame
+qrcode
+sounddevice
+pytube
+sketchpy
+
